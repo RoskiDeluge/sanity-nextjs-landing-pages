@@ -20,5 +20,12 @@ export default {
       type: 'figure',
       title: 'Photo of the person'
     }
-  ]
+  ],
+  preview: {
+    select: {
+      title: 'quote',
+      subtitle: 'name',
+      media: 'photo'
+    }
+  }
 }
